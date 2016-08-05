@@ -1,6 +1,6 @@
 # react-native-camera [![npm version](https://badge.fury.io/js/react-native-camera.svg)](http://badge.fury.io/js/react-native-camera) [![Gitter](https://badges.gitter.im/lwansbrough/react-native-camera.svg)](https://gitter.im/lwansbrough/react-native-camera)
 
-A camera module for React Native.
+A fix for the React Native Camera
 
 **BREAKING CHANGES:**
 [*April 27*] capture now returns an object instead of a string
